@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/update-slap-battles-spam0-0d0n3thlfhuydd.lua"))()
