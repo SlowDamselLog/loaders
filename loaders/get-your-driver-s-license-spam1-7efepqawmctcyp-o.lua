@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/get-your-driver-s-license-spam1-7efepqawmctcyp.lua"))()
