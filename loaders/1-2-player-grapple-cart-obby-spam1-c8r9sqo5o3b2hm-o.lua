@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/1-2-player-grapple-cart-obby-spam1-c8r9sqo5o3b2hm.lua"))()
