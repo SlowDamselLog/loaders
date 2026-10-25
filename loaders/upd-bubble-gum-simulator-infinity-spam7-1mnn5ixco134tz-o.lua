@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlowDamselLog/loaders/main/loaders/upd-bubble-gum-simulator-infinity-spam7-1mnn5ixco134tz.lua"))()
